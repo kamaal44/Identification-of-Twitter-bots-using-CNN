@@ -1,0 +1,13 @@
+lxml==4.3.2
+tensorflow==2.0.0rc0
+requests==2.22.0
+pandas==0.23.4
+numpy==1.17.2
+nltk==3.3
+gensim==3.4.0
+TwitterAPI==2.5.9
+category_encoders==2.0.0
+ekphrasis==0.5.1
+joblib==0.13.2
+keras==2.3.0
+scikit_learn==0.21.3
